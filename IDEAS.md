@@ -46,3 +46,15 @@ then update the idea's **Status** below.
   - Tick items off
 - **Nice-to-have / notes:** Works on a phone. (This is just an example — Claude will skip it.)
 - **Status:** Example (skip)
+
+### Idea: TestRun
+- **Submitted by:** Scott Davis
+- **Date:** 2026-11-11
+- **What is it?** this is to see if clade runs correctly. 
+- **Who is it for?** me
+- **Must-have features:**
+  - output project
+  - <feature>
+- **Nice-to-have / notes:** <anything else, links, examples>
+- **Status:** New
+```
