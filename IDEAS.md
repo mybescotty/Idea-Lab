@@ -56,5 +56,6 @@ then update the idea's **Status** below.
   - output project
   - <feature>
 - **Nice-to-have / notes:** <anything else, links, examples>
-- **Status:** New
+- **Status:** Overview written
+- **Project:** [projects/test-run](projects/test-run/)
 ```
